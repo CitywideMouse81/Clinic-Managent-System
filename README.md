@@ -34,6 +34,8 @@ Dashboard
 🚀 Live Demo
 
 Check out the live application: https://glittering-cheesecake-1fc945.netlify.app/
+
+
 🛠 Technology Stack
 
     Frontend Framework: Vue.js 3
